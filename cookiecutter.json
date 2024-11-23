@@ -1,0 +1,12 @@
+
+{
+  "project_name": "function__template",
+  "author_name": "Y4ng0",
+  "author_email": "",
+  "url": "https://github.com/{{cookiecutter.author_name}}/{{cookiecutter.project_name}}",
+  "description": "a template for function",
+  "version": "0.1.0",
+  "create_github_repo": ["yes", "no"],
+  "github_token": "your_github_token",
+  "private_repo": ["no", "yes"]
+}
